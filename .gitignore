@@ -1,0 +1,8 @@
+bin/
+obj/
+dist/
+reports/
+tests/positive/out/
+*.user
+.vs/
+CHANGELOG.md
